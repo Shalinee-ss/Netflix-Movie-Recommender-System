@@ -12,7 +12,7 @@ Content-based recommendation: In this approach, recommended items are similar in
 Hybrid approaches: This method combines both collaborative and content-based approaches.                                               
 
 ## Objectives of the project:                                                   
-        I. Collection of Data from various sources, performing data cleaning.                                
+        I. Collection of Data from various sources.                                
         II. Performing EDA and data visualization to gather insights about the data.                            
         III. Predicting Movie Recommendations based on Content-based, Collaborative and Hybrid approach using Python and Machine learning.                              
         IV. Creating a GUI interface to show the recommendations using Stream Lit library.                
